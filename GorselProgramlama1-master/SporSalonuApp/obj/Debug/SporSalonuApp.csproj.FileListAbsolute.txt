@@ -1,0 +1,96 @@
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.AssemblyReference.cache
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Anasayfa.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.ProfilForm.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CopyComplete
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.LoginForm.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Kurslar.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KaydolmaForm.resources
+C:\Users\brknt\source\repos\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyelikForm.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.AssemblyReference.cache
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Anasayfa.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KaydolmaForm.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Kurslar.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.LoginForm.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.ProfilForm.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyelikForm.resources
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CopyComplete
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.dll
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.xml
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Finix\Desktop\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.dll
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.xml
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.AssemblyReference.cache
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Anasayfa.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KaydolmaForm.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Kurslar.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.LoginForm.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.ProfilForm.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyelikForm.resources
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CopyComplete
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\Finix\Desktop\Yeni klasör\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.dll
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.xml
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Anasayfa.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KaydolmaForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Kurslar.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.LoginForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.ProfilForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyelikForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CopyComplete
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\emirh\OneDrive\Masaüstü\Görsel Programlama I\GörselProgramlama\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
